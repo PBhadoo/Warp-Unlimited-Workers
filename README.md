@@ -5,7 +5,7 @@
 * Add `referrer` from your Warp+ App. Go to Settings > Advanced > Diagnostics > ID
 * Add Telegram Bot Token and Chat ID (optional)
 * Go to Workers > Triggers > Cron Triggers > Add Cron Trigger, set it to 1 minute and save.
-* Enjoy!
+* Enjoy! or See in Action at [Telegram](https://t.me/+HNa-RM-SOLRhYjJh)
 
 ## Possible Drawback
 
